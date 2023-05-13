@@ -1,0 +1,18 @@
+.about_card {
+  margin: 4rem 6rem;
+  text-align: start;
+}
+
+.about_card div h1 {
+  padding-bottom: 1rem;
+}
+
+.about_card div p {
+  padding-bottom: 2rem;
+}
+
+@media screen and (max-width: 850px) {
+  .about_card {
+    margin: 4rem 2rem;
+  }
+}
